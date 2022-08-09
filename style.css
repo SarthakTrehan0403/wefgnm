@@ -1,0 +1,54 @@
+body{
+    font-family: 'New Tegomin', serif;
+  }
+  .h{
+    font-size:45px;
+    width: 50%;
+    box-shadow: 5px 5px 5px grey
+  }
+  #lens{
+  font-size: 70px;
+  margin-left: 150px;
+    }
+  #dev{
+    font-size:35px;
+    width: 100%;
+    position:fixed;
+    bottom: 0px;
+  }
+  #img{
+  width: 100px;
+  height: 100px;
+  margin-left: 150px;
+  }
+  #and{
+    margin-left: 700px;
+    margin-top: -150px;
+    font-size: 100px;
+  }
+  #mblnt{
+    font-size: 70px;
+    float: right;
+    margin-right: 150px;
+    margin-top: -150px;
+      }
+      .img_div{
+        background-color: grey;
+        font-size:20px;
+      }
+      .flt{
+        float: left;
+      }
+  .ggl_lns{
+    margin-left:10px;
+    margin-top:0px;
+  }  
+  .moblnt_output{
+    margin-left:-500px;
+  } 
+  .gry{
+    width: 900px;
+  } 
+   .aa{
+     margin-top:25px;
+   }
